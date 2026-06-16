@@ -1,1 +1,7 @@
-﻿Console.WriteLine("This will apparently be the API gateway");
+﻿namespace fakebookGateway {
+    class Program {
+        static void Main(string[] args) {
+            Console.WriteLine("Fakebook GraphQL Gateway initialization!");
+        }
+    }
+}
